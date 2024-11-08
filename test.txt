@@ -1,0 +1,2 @@
+toto je můj první commit
+Commit v hlavní větvi
