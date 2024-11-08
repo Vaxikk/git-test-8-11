@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 toto je můj první commit
 Commit v hlavní větvi
+=======
+Toto je můj první commit
+Commit ve větvi branch2
+>>>>>>> branch2
